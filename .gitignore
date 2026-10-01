@@ -1,0 +1,11 @@
+# Ignore secret environment variables
+.env
+*.env
+
+# Ignore Python virtual environment and cache
+.venv/
+venv/
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
